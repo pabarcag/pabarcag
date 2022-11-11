@@ -3,5 +3,5 @@
 Im a self-taught programming student. 
 
 
-Currently studying HTML, CSS and JavaScript to take the next step in my training in web development and here, i will publish my works wiht 
+Currently studying HTML, CSS and JavaScript to take the next step in my training in web development and here, i will publish my works
 with those languages.
